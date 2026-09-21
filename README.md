@@ -59,3 +59,5 @@ If you use this repository, please cite the paper (see `CITATION.cff`).
 ## License
 
 Released under the MIT License (see `LICENSE`).
+
+DOI: 10.5281/zenodo.22875130
