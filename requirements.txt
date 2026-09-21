@@ -1,0 +1,13 @@
+torch>=2.0
+torchvision
+open_clip_torch>=2.20
+scikit-learn>=1.3
+imbalanced-learn
+faiss-cpu
+pandas
+openpyxl
+scipy
+numpy
+matplotlib
+seaborn
+tqdm

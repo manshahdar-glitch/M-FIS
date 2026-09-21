@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite the following paper."
+title: "M-FIS: Fuzziness-based instance selection for data-efficient adaptation of multimodal foundation models in clinical and crisis screening"
+authors:
+  - family-names: Manshah
+    given-names: Muhammad
+  - family-names: Aamir Raza
+    given-names: Rana
+  - family-names: Qaisar
+    given-names: Zahid Hussain
+  - family-names: Khan
+    given-names: Rizwan
+year: 2026
+version: "1.0.0"
+license: MIT
+repository-code: "https://github.com/<your-username>/M-FIS"
